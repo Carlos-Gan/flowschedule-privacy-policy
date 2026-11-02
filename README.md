@@ -46,7 +46,7 @@ Podemos actualizar esta política cuando cambien la aplicación o sus prácticas
 
 ## 8. Contacto
 
-Para preguntas o solicitudes relacionadas con la privacidad, contacta a Charlie Moran en **[correo de soporte publicado en Google Play]**.
+Para preguntas o solicitudes relacionadas con la privacidad, contacta a Charlos Moran en **[correo de soporte publicado en Google Play]**.
 
 ---
 
@@ -96,4 +96,4 @@ We may update this policy when the app or its information-handling practices cha
 
 ## 8. Contact
 
-For privacy questions or requests, contact Charlie Moran at **[support email listed on Google Play]**.
+For privacy questions or requests, contact Charlos Moran at **[support email listed on Google Play]**.
